@@ -1,0 +1,27 @@
+{
+  "name": "fis3-deploy-ftp-r",
+  "description": "fis3 ftp发布工具，支持跳过未修改文件",
+  "version": "0.0.1",
+  "author": "wangchun_020",
+  "homepage": "https://github.com/wangchun0020/",
+  "keywords": [
+    "fis",
+    "fis3",
+    "deploy",
+    "ftp"
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wangchun0020/fis3-deploy-ftp-r.git"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "dependencies": {
+    "ftp": "0.3.10"
+  },
+  "bugs": {
+    "url": "https://github.com/wangchun0020/fis3-deploy-ftp-r/issues"
+  }
+}
